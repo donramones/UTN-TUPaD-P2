@@ -11,7 +11,7 @@ public class EjercicioTres {
     
     public static void main(String[] args) {
         // a. Declaración e inicialización de la variable String
-        String nombre = 'Ana';
+        String nombre = "Ana";
         // b. Declaración e inicialización de la variable int
         int edad = 25;
         // c. Declaración e inicialización de la variable double
